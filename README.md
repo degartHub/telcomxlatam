@@ -143,7 +143,7 @@ Crea un fork del repositorio, realiza los cambios, y envía un pull request con 
   ```
 
 ## Autor
-Desarrollado como parte de un análisis de datos para Telecom X, con código optimizado para Google Colab. Contacta para más detalles o colaboraciones.
+David Aragon
 
 ## Licencia
 MIT License - libre para usar, modificar, y distribuir con atribución.
